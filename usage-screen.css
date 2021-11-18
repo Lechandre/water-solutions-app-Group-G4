@@ -1,0 +1,57 @@
+
+body {
+    background-image: url("image-1.jpg");
+    /*border: 5px solid black;*/
+    margin: 80px;
+}
+
+.style {
+    font-size: large;
+    color: rgb(4, 4, 56);
+    margin: 5px auto;
+    
+    
+}
+
+.chart {
+    /*margin: 5px auto; this places the pic in the center of the page*/
+    margin-right: 5px;
+    background-color: transparent;
+}
+
+.usageBtn {
+    background-color: #023e8a;
+}
+
+.historyBtn {
+    background-color: #0077b6;
+
+}
+
+.leakBtn {
+    background-color: #0096c7;
+
+}
+
+.setBtn {
+    background-color: #00b4d8;
+}
+
+.dayBtn {
+background-color: #5e60ce;
+}
+
+.weekBtn {
+    background-color: #5e60ce;
+}
+
+.monthBtn {
+    background-color: #5e60ce;
+}
+
+.yearBtn {
+    background-color: #5e60ce;
+}
+
+
+
